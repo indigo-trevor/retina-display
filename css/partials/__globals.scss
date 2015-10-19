@@ -22,5 +22,4 @@ body {
 
 #logo {
   width: 250px;
-  @include at2x('/img/logo', png, 200px, 100px);
 }
